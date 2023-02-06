@@ -1,4 +1,6 @@
-import styles from '@/styles/Home.module.css'
+"use client"
+
+import styles from './page.module.css'
 import uq from '@umalqura/core';
 import { useEffect, useState } from 'react';
 
